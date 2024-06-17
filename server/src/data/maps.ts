@@ -60,8 +60,8 @@ const maps = {
         },
         majorBuildings: ["armory", "port_complex", "refinery"],
         buildings: {
-            large_bridge: 3,
-            small_bridge: Infinity,
+            large_bridge: 0,
+            small_bridge: 0,
             port_complex: 0,
             sea_traffic_control: 1,
             tugboat_red: 0,
