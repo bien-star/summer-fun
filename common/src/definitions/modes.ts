@@ -64,17 +64,6 @@ export const Modes: ModeDefinition[] = [
         reskin: "winter",
         bulletTrailAdjust: "hsl(0, 50%, 80%)"
     }
-     {
-        idString: "summer",
-        colors: {
-            grass: "hsl(113, 42%, 42%)",
-            water: "hsl(211, 63%, 42%)",
-            border: "hsl(211, 63%, 30%)",
-            beach: "hsl(40, 39%, 55%)",
-            riverBank: "hsl(40, 39%, 55%)",
-            gas: "hsla(17, 100%, 50%, 0.55)"
-        }
-    }
 ];
 
 export const Reskins: Record<string, ReskinDefinition> = {
